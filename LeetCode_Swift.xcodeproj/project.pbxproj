@@ -10,6 +10,7 @@
 		5683391D24BD9B4100D3B363 /* 485.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5683391C24BD9B4100D3B363 /* 485.swift */; };
 		5683391F24BDAEC200D3B363 /* 977.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5683391E24BDAEC200D3B363 /* 977.swift */; };
 		56E9209F24BDBF2E002405F2 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 56E9209E24BDBF2E002405F2 /* README.md */; };
+		56E920A124BDD100002405F2 /* 1295.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56E920A024BDD100002405F2 /* 1295.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -31,6 +32,7 @@
 		5683391C24BD9B4100D3B363 /* 485.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 485.swift; sourceTree = "<group>"; };
 		5683391E24BDAEC200D3B363 /* 977.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 977.swift; sourceTree = "<group>"; };
 		56E9209E24BDBF2E002405F2 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = "<none>"; };
+		56E920A024BDD100002405F2 /* 1295.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1295.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +77,7 @@
 				5683391624BD985600D3B363 /* Info.plist */,
 				5683391C24BD9B4100D3B363 /* 485.swift */,
 				5683391E24BDAEC200D3B363 /* 977.swift */,
+				56E920A024BDD100002405F2 /* 1295.swift */,
 			);
 			path = LeetCode_SwiftTests;
 			sourceTree = "<group>";
@@ -177,6 +180,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5683391D24BD9B4100D3B363 /* 485.swift in Sources */,
+				56E920A124BDD100002405F2 /* 1295.swift in Sources */,
 				5683391F24BDAEC200D3B363 /* 977.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

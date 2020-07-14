@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		5683391D24BD9B4100D3B363 /* 485.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5683391C24BD9B4100D3B363 /* 485.swift */; };
 		5683391F24BDAEC200D3B363 /* 977.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5683391E24BDAEC200D3B363 /* 977.swift */; };
+		56E9209F24BDBF2E002405F2 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 56E9209E24BDBF2E002405F2 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -29,6 +30,7 @@
 		5683391624BD985600D3B363 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5683391C24BD9B4100D3B363 /* 485.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 485.swift; sourceTree = "<group>"; };
 		5683391E24BDAEC200D3B363 /* 977.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 977.swift; sourceTree = "<group>"; };
+		56E9209E24BDBF2E002405F2 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +54,7 @@
 		568338FB24BD97FC00D3B363 = {
 			isa = PBXGroup;
 			children = (
+				56E9209E24BDBF2E002405F2 /* README.md */,
 				5683391324BD985600D3B363 /* LeetCode_SwiftTests */,
 				5683390524BD97FD00D3B363 /* Products */,
 			);
@@ -155,6 +158,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				56E9209F24BDBF2E002405F2 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

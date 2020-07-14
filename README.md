@@ -5,8 +5,10 @@
 LeetCode solutions in Swift.
 
 
+
 ## Info
 
+- LeetCode 사이트에서 제출하고 통과된 문제의 해답을 프로젝트에 추가한다.
 - Xcode 프로젝트는 각 문제의 번호를 제목으로 하는 ".swift"파일로 구성한다.
 - 문제의 내용은 주석으로 적되 Xcode의 Quick Help에서 볼 수 있는 양식을 사용한다.
 - 문제의 해답은 Unit Test 기능으로 테스트할 수 있도록 한다.

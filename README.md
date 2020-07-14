@@ -12,13 +12,23 @@ LeetCode solutions in Swift.
 - 문제의 해답은 Unit Test 기능으로 테스트할 수 있도록 한다.
     - LeetCode에서 제공하는 테스트케이스를 기본으로 테스트하며, 필요한 경우 직접 만들어 추가한다.
     - 테스트 코드는 Given-When-Then 패턴을 최대한 준수한다.
-    
+
+
+
+## How to run
+
+1. 저장소를 다운로드 한다.
+2. Xcode로 "LeetCode_Swift.xcodeproj" 프로젝트를 연다.
+3. 동작 시킬 문제의 ".swift" 파을 연다.
+4. 테스트 코드 좌측의 줄번호 위치에 다이아몬드 모양(◇)표시에 커서를 올리면 실행(▶) 표시로 바뀌며, 클릭하면 빌드 및 테스트가 시작된다.
+5. 테스트가 완료되면 성공시 "Test Succeeded", 실패시 "Test Failed" 창이 출력된다.
+
 
 
 ## Problems
 
-| #    | Title                                   | Difficulty | Topcis  | Date       |
-| ---- | --------------------------------------- | ------ | ----------- | ---------- |
-| 485  | Max Consecutive Ones                    | Easy   | Array       | 2020/07/13 |
-| 977  | Squares of a Sorted Array               | Easy   | Array       | 2020/07/13 |
-| 1295 | Find Numbers with Even Number of Digits | Easy   | Array       | 2020/07/13 |
+| #    | Title                  | Difficulty | Topcis | Date       |
+| ---- | -----------------------| ---------- | ------ | ---------- |
+| 485  | Max Consecutive Ones   | Easy       | Array  | 2020/07/13 |
+| 977  | Squares of a Sorted Array  | Easy   | Array  | 2020/07/13 |
+| 1295 | Find Numbers with Even Number of Digits | Easy | Array | 2020/07/13 |

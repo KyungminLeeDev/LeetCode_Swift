@@ -31,4 +31,5 @@ LeetCode solutions in Swift.
 | ---- | -----------------------| ---------- | ------ | ---------- |
 | 485  | Max Consecutive Ones   | Easy       | Array  | 2020/07/13 |
 | 977  | Squares of a Sorted Array  | Easy   | Array  | 2020/07/13 |
+| 1089 | Duplicate Zeros        | Easy       | Array  | 2020/07/14 |
 | 1295 | Find Numbers with Even Number of Digits | Easy | Array | 2020/07/13 |

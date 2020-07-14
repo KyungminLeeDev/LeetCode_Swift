@@ -30,7 +30,7 @@ func sortedSquares(_ A: [Int]) -> [Int] {
 }
 
 
-/// Test sortedSquares()
+// Test Code
 class SortedSquaresTest: XCTestCase {
     
     func testSortedSquares() {

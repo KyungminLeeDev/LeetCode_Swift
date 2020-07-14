@@ -41,7 +41,7 @@ func findMaxConsecutiveOnes(_ nums: [Int]) -> Int {
 }
 
 
-/// Test findMaxConsecutiveOnes()
+// Test Code
 class FindMaxConsecutiveOnesTest: XCTestCase {
     
     func testFindMaxConsecutiveOnes() {

@@ -52,7 +52,7 @@ func duplicateZeros(_ arr: inout [Int]) {
 
 
 // Test Code
-class DuplicateZerosTest: XCTestCase {
+extension SolutionTests {
     
     func testDuplicateZeros() {
         // Given-When-Then (준비-실행-검증)

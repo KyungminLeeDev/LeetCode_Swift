@@ -42,7 +42,7 @@ func findMaxConsecutiveOnes(_ nums: [Int]) -> Int {
 
 
 // Test Code
-class FindMaxConsecutiveOnesTest: XCTestCase {
+extension SolutionTests {
     
     func testFindMaxConsecutiveOnes() {
         // Given-When-Then (준비-실행-검증)

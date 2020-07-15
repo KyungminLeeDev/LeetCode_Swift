@@ -38,7 +38,7 @@ func findNumbers(_ nums: [Int]) -> Int {
 
 
 // Test Code
-class FindNumbersTest: XCTestCase {
+extension SolutionTests {
     
     func testFineNumbers() {
         // Given-When-Then (준비-실행-검증)

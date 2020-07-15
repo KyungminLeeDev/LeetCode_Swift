@@ -31,7 +31,7 @@ func sortedSquares(_ A: [Int]) -> [Int] {
 
 
 // Test Code
-class SortedSquaresTest: XCTestCase {
+extension SolutionTests {
     
     func testSortedSquares() {
         // Given-When-Then (준비-실행-검증)

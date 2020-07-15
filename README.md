@@ -31,6 +31,7 @@ LeetCode solutions in Swift.
 
 | #    | Title                  | Difficulty | Topcis | Date       |
 | ---- | -----------------------| ---------- | ------ | ---------- |
+| 88   | Merge Sorted Array     | Easy       | Array  | 2020/07/15 |
 | 485  | Max Consecutive Ones   | Easy       | Array  | 2020/07/13 |
 | 977  | Squares of a Sorted Array  | Easy   | Array  | 2020/07/13 |
 | 1089 | Duplicate Zeros        | Easy       | Array  | 2020/07/14 |

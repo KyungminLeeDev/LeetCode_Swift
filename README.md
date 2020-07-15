@@ -31,8 +31,8 @@ LeetCode solutions in Swift.
 
 | #    | Title                  | Difficulty | Topcis | Date       |
 | ---- | -----------------------| ---------- | ------ | ---------- |
-| 88   | Merge Sorted Array     | Easy       | Array  | 2020/07/15 |
-| 485  | Max Consecutive Ones   | Easy       | Array  | 2020/07/13 |
-| 977  | Squares of a Sorted Array  | Easy   | Array  | 2020/07/13 |
-| 1089 | Duplicate Zeros        | Easy       | Array  | 2020/07/14 |
-| 1295 | Find Numbers with Even Number of Digits | Easy | Array | 2020/07/13 |
+| [88](https://github.com/KyungminLeeDev/LeetCode_Swift/blob/master/SolutionTests/88.swift) | Merge Sorted Array | Easy | Array | 2020/07/15 |
+| [485](https://github.com/KyungminLeeDev/LeetCode_Swift/blob/master/SolutionTests/485.swift) | Max Consecutive Ones | Easy | Array | 2020/07/13 |
+| [977](https://github.com/KyungminLeeDev/LeetCode_Swift/blob/master/SolutionTests/977.swift) | Squares of a Sorted Array | Easy | Array | 2020/07/13 |
+| [1089](https://github.com/KyungminLeeDev/LeetCode_Swift/blob/master/SolutionTests/1089.swift) | Duplicate Zeros | Easy | Array  | 2020/07/14 |
+| [1295](https://github.com/KyungminLeeDev/LeetCode_Swift/blob/master/SolutionTests/1295.swift) | Find Numbers with Even Number of Digits | Easy | Array | 2020/07/13 |

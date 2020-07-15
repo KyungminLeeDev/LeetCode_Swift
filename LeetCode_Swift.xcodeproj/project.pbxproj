@@ -30,7 +30,6 @@
 /* Begin PBXFileReference section */
 		5683390424BD97FD00D3B363 /* LeetCode_Swift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCode_Swift; sourceTree = BUILT_PRODUCTS_DIR; };
 		5683391224BD985600D3B363 /* LeetCode_SwiftTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LeetCode_SwiftTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		5683391624BD985600D3B363 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5683391C24BD9B4100D3B363 /* 485.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 485.swift; sourceTree = "<group>"; };
 		5683391E24BDAEC200D3B363 /* 977.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 977.swift; sourceTree = "<group>"; };
 		569B8DE924BF1DE30018AF33 /* SolutionTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SolutionTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -70,7 +69,6 @@
 			isa = PBXGroup;
 			children = (
 				56E9209E24BDBF2E002405F2 /* README.md */,
-				5683391324BD985600D3B363 /* LeetCode_SwiftTests */,
 				569B8DEA24BF1DE30018AF33 /* SolutionTests */,
 				5683390524BD97FD00D3B363 /* Products */,
 			);
@@ -84,14 +82,6 @@
 				569B8DE924BF1DE30018AF33 /* SolutionTests.xctest */,
 			);
 			name = Products;
-			sourceTree = "<group>";
-		};
-		5683391324BD985600D3B363 /* LeetCode_SwiftTests */ = {
-			isa = PBXGroup;
-			children = (
-				5683391624BD985600D3B363 /* Info.plist */,
-			);
-			path = LeetCode_SwiftTests;
 			sourceTree = "<group>";
 		};
 		569B8DEA24BF1DE30018AF33 /* SolutionTests */ = {

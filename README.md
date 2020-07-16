@@ -19,11 +19,11 @@ LeetCode solutions in Swift.
 
 ## How to run
 
-1. 저장소를 다운로드 한다.
+1. 저장소를 다운로드한다.
 2. Xcode로 "LeetCode_Swift.xcodeproj" 프로젝트를 연다.
 3. 확인하려는 문제의 ".swift" 파일을 연다.
 4. 테스트 코드 좌측의 줄번호 위치에 다이아몬드 모양(◇)의 버튼이 있다. 버튼에 커서를 올리면 실행(▶) 표시로 바뀌며, 클릭하면 빌드 및 테스트가 시작된다.
-5. 테스트가 완료되면 성공시 "Test Succeeded", 실패시 "Test Failed" 창이 출력된다.
+5. 테스트가 완료되면 성공 시 "Test Succeeded", 실패 시 "Test Failed" 창이 출력된다.
 
 
 

@@ -56,20 +56,32 @@ func duplicateZeros(_ arr: inout [Int]) {
 // Test Code
 extension SolutionTests {
     
-    func testDuplicateZeros() {
+    func testDuplicateZeros_case1() {
         // Given-When-Then (준비-실행-검증)
         
         // Given
-        var inputValue = [[1,0,2,3,0,4,5,0], [1,2,3]]
-        let outputValue = [[1,0,0,2,3,0,0,4], [1,2,3]]
+        var input = [1,0,2,3,0,4,5,0]
+        let output = [1,0,0,2,3,0,0,4]
         
         // When
-        duplicateZeros(&inputValue[0])
-        duplicateZeros(&inputValue[1])
+        duplicateZeros(&input)
         
         // Then
-        XCTAssertEqual(inputValue[0], outputValue[0])
-        XCTAssertEqual(inputValue[1], outputValue[1])
+        XCTAssertEqual(input, output)
+    }
+    
+    func testDuplicateZeros_case2() {
+        // Given-When-Then (준비-실행-검증)
+        
+        // Given
+        var input = [1,2,3]
+        let output = [1,2,3]
+        
+        // When
+        duplicateZeros(&input)
+        
+        // Then
+        XCTAssertEqual(input, output)
     }
     
 }

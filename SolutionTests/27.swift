@@ -71,21 +71,21 @@ extension SolutionTests {
     }
     
     func testRemoveElement_case2() {
-           // Given-When-Then (준비-실행-검증)
-           
-           // Given
-           var nums = [0,1,2,2,3,0,4,2]
-           let val = 2
-           
-           let outputNums = [0,1,3,0,4]
-           let outputReturn = 5
-           
-           // When
-           let result  = removeElement(&nums, val)
+        // Given-When-Then (준비-실행-검증)
+        
+        // Given
+        var nums = [0,1,2,2,3,0,4,2]
+        let val = 2
+        
+        let outputNums = [0,1,3,0,4]
+        let outputReturn = 5
+        
+        // When
+        let result  = removeElement(&nums, val)
     
-           // Then
-           XCTAssertEqual(nums, outputNums)
-           XCTAssertEqual(result, outputReturn)
+        // Then
+        XCTAssertEqual(nums, outputNums)
+        XCTAssertEqual(result, outputReturn)
        }
     
 }

@@ -49,14 +49,14 @@ extension SolutionTests {
         // Given-When-Then (준비-실행-검증)
         
         // Given
-        let inputValue = [1,1,0,1,1,1]
-        let outputValue = 3
+        let input = [1,1,0,1,1,1]
+        let output = 3
         
         // When
-        let testedValue = findMaxConsecutiveOnes(inputValue)
+        let result = findMaxConsecutiveOnes(input)
         
         // Then
-        XCTAssertEqual(testedValue, outputValue)
+        XCTAssertEqual(result, output)
         
     }
     

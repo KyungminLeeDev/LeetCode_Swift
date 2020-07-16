@@ -41,21 +41,32 @@ func findNumbers(_ nums: [Int]) -> Int {
 // Test Code
 extension SolutionTests {
     
-    func testFineNumbers() {
+    func testFineNumbers_case1() {
         // Given-When-Then (준비-실행-검증)
         
         // Given
-        let inputValue = [[12,345,2,6,7896], [555,901,482,1771]]
-        let outputValue = [2, 1]
+        let input = [12,345,2,6,7896]
+        let output = 2
         
         // When
-        var testedValue = outputValue
-        testedValue[0] = findNumbers(inputValue[0])
-        testedValue[1] = findNumbers(inputValue[1])
+        let result = findNumbers(input)
         
         // Then
-        XCTAssertEqual(testedValue[0], outputValue[0])
-        XCTAssertEqual(testedValue[1], outputValue[1])
+        XCTAssertEqual(result, output)
+    }
+    
+    func testFineNumbers_case2() {
+        // Given-When-Then (준비-실행-검증)
+        
+        // Given
+        let input = [555,901,482,1771]
+        let output = 1
+        
+        // When
+        let result = findNumbers(input)
+        
+        // Then
+        XCTAssertEqual(result, output)
     }
     
 }

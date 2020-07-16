@@ -31,6 +31,7 @@ LeetCode solutions in Swift.
 
 | #    | Title                  | Difficulty | Topcis | Date       |
 | ---- | -----------------------| ---------- | ------ | ---------- |
+| [27](https://github.com/KyungminLeeDev/LeetCode_Swift/blob/master/SolutionTests/27.swift) | Remove Element | Easy | Array | 2020/07/16 |
 | [88](https://github.com/KyungminLeeDev/LeetCode_Swift/blob/master/SolutionTests/88.swift) | Merge Sorted Array | Easy | Array | 2020/07/15 |
 | [485](https://github.com/KyungminLeeDev/LeetCode_Swift/blob/master/SolutionTests/485.swift) | Max Consecutive Ones | Easy | Array | 2020/07/13 |
 | [977](https://github.com/KyungminLeeDev/LeetCode_Swift/blob/master/SolutionTests/977.swift) | Squares of a Sorted Array | Easy | Array | 2020/07/13 |

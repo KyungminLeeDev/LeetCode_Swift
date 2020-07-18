@@ -31,8 +31,8 @@ import XCTest
  ~~~~
  
  Submissions:
- - Runtime: 68 ms, faster than 98.57% of Swift online submissions for Remove Duplicates from Sorted Array.
- - Memory Usage: 21.7 MB, less than 20.53% of Swift online submissions for Remove Duplicates from Sorted Array.
+    - Runtime: 68 ms, faster than 98.57% of Swift online submissions for Remove Duplicates from Sorted Array.
+    - Memory Usage: 21.7 MB, less than 20.53% of Swift online submissions for Remove Duplicates from Sorted Array.
 */
 func removeDuplicates(_ nums: inout [Int]) -> Int {
     guard !nums.isEmpty else {

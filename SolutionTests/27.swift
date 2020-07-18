@@ -35,8 +35,8 @@ import XCTest
  ~~~~
  
  Submissions:
- - Runtime: 12 ms, faster than 68.70% of Swift online submissions for Remove Element.
- - Memory Usage: 20.9 MB, less than 71.43% of Swift online submissions for Remove Element.
+    - Runtime: 12 ms, faster than 68.70% of Swift online submissions for Remove Element.
+    - Memory Usage: 20.9 MB, less than 71.43% of Swift online submissions for Remove Element.
 */
 func removeElement(_ nums: inout [Int], _ val: Int) -> Int {
     guard nums.count != 0 else {

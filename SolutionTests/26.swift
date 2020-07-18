@@ -65,13 +65,13 @@ extension SolutionTests {
         
         
         // When
-        let result = removeDuplicates(&nums)
-        let resultNums = nums[0...1]
+        let resultReturn = removeDuplicates(&nums)
+        let resultNums = Array(nums[0..<resultReturn])
         
         
         // Then
         XCTAssertEqual(resultNums, outputNums)
-        XCTAssertEqual(result, outputReturn)
+        XCTAssertEqual(resultReturn, outputReturn)
     }
     
 }

@@ -74,4 +74,24 @@ extension SolutionTests {
         XCTAssertEqual(resultReturn, outputReturn)
     }
     
+    func testRemoveDuplicates_case2() {
+        // Given-When-Then (준비-실행-검증)
+               
+        // Given
+        var nums = [0,0,1,1,1,2,2,3,3,4]
+
+        let outputNums = [0,1,2,3,4]
+        let outputReturn = 5
+        
+        
+        // When
+        let resultReturn = removeDuplicates(&nums)
+        let resultNums = Array(nums[0..<resultReturn])
+        
+        
+        // Then
+        XCTAssertEqual(resultNums, outputNums)
+        XCTAssertEqual(resultReturn, outputReturn)
+    }
+    
 }

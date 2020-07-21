@@ -23,8 +23,8 @@ import XCTest
     - 1 <= arr[i] <= 10^5
  
  Submissions:
-    - Runtime: 172 ms, faster than 50.51% of Swift online submissions for Replace Elements with Greatest Element on Right Side.
-    - Memory Usage: 21.5 MB, less than 100.00% of Swift online submissions for Replace Elements with Greatest Element on Right Side.
+    Runtime: 136 ms, faster than 96.94% of Swift online submissions for Replace Elements with Greatest Element on Right Side.
+    Memory Usage: 21.8 MB, less than 70.00% of Swift online submissions for Replace Elements with Greatest Element on Right Side.
 */
 func replaceElements(_ arr: [Int]) -> [Int] {
     guard !arr.isEmpty else {
@@ -36,21 +36,16 @@ func replaceElements(_ arr: [Int]) -> [Int] {
     }
     
     var result = arr
-    result.append(-1)
-    result.reverse()
-    result.removeLast()
-    
     let length = arr.count - 1
-    var max = -2
+    var max = -1
     
-    for i in 0...length {
-        max = max > result[i] ? max:result[i]
+    result[length] = -1
+    for i in (0..<length).reversed() {
+        max = max > arr[i + 1] ? max:arr[i + 1]
         result[i] = max
     }
     
-             
-    
-    return result.reversed()
+    return result
 }
 
 // Test Code

@@ -39,4 +39,5 @@ LeetCode solutions in Swift.
 | [977](https://github.com/KyungminLeeDev/LeetCode_Swift/blob/master/SolutionTests/977.swift) | Squares of a Sorted Array | Easy | Array | 2020/07/13 |
 | [1089](https://github.com/KyungminLeeDev/LeetCode_Swift/blob/master/SolutionTests/1089.swift) | Duplicate Zeros | Easy | Array  | 2020/07/14 |
 | [1295](https://github.com/KyungminLeeDev/LeetCode_Swift/blob/master/SolutionTests/1295.swift) | Find Numbers with Even Number of Digits | Easy | Array | 2020/07/13 |
+| [1299](https://github.com/KyungminLeeDev/LeetCode_Swift/blob/master/SolutionTests/1299.swift) | Replace Elements with Greatest Element on Right Side | Easy | Array | 2020/07/21 |
 | [1346](https://github.com/KyungminLeeDev/LeetCode_Swift/blob/master/SolutionTests/1346.swift) | Check If N and Its Double Exist | Easy | Array | 2020/07/19 |

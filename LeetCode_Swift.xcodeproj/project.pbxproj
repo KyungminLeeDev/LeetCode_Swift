@@ -19,6 +19,7 @@
 		569B8DF324BF1DF90018AF33 /* 1089.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56E920A224BDDF25002405F2 /* 1089.swift */; };
 		569B8DF424BF1DF90018AF33 /* 485.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5683391C24BD9B4100D3B363 /* 485.swift */; };
 		56C3883224C34F400052AA6F /* 1346.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56C3883124C34F400052AA6F /* 1346.swift */; };
+		56F60FE824C9490900E0E914 /* 905.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56F60FE724C9490900E0E914 /* 905.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -50,6 +51,7 @@
 		56E9209E24BDBF2E002405F2 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = "<none>"; };
 		56E920A024BDD100002405F2 /* 1295.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1295.swift; sourceTree = "<group>"; };
 		56E920A224BDDF25002405F2 /* 1089.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1089.swift; sourceTree = "<group>"; };
+		56F60FE724C9490900E0E914 /* 905.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 905.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				5683391C24BD9B4100D3B363 /* 485.swift */,
 				56531AB124C56CD600AE8D1D /* 941.swift */,
 				5683391E24BDAEC200D3B363 /* 977.swift */,
+				56F60FE724C9490900E0E914 /* 905.swift */,
 				56E920A224BDDF25002405F2 /* 1089.swift */,
 				56E920A024BDD100002405F2 /* 1295.swift */,
 				56758B4824C6F934001DFAD8 /* 1299.swift */,
@@ -206,6 +209,7 @@
 			files = (
 				56531AB224C56CD600AE8D1D /* 941.swift in Sources */,
 				56764D8024C80B5F0077CF1B /* 283.swift in Sources */,
+				56F60FE824C9490900E0E914 /* 905.swift in Sources */,
 				56C3883224C34F400052AA6F /* 1346.swift in Sources */,
 				563E0FD524BFF4C500EDA2F9 /* 27.swift in Sources */,
 				569B8DF124BF1DF90018AF33 /* 1295.swift in Sources */,

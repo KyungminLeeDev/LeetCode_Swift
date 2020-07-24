@@ -46,7 +46,7 @@ import XCTest
  - 1 <= heights[i] <= 100
  
  Solution:
- - filter로 양수 배열, 음수 배열로 배열을 분리한 뒤 더한다.
+ - Array.sorted()로 정렬된 배열을 만들고 주어진 배열과 인덱스끼리 비교하여 다른 원소 갯수를 카운트 후 반환한다.
  
  Submissions:
  - Runtime: 12 ms, faster than 97.01% of Swift online submissions for Height Checker.

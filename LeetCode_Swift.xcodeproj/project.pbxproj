@@ -13,6 +13,7 @@
 		56531AB224C56CD600AE8D1D /* 941.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56531AB124C56CD600AE8D1D /* 941.swift */; };
 		56758B4924C6F934001DFAD8 /* 1299.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56758B4824C6F934001DFAD8 /* 1299.swift */; };
 		56764D8024C80B5F0077CF1B /* 283.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56764D7F24C80B5F0077CF1B /* 283.swift */; };
+		5684FEEC24CAAA1200711F7A /* 1051.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5684FEEB24CAAA1200711F7A /* 1051.swift */; };
 		569B8DEC24BF1DE30018AF33 /* SolutionTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 569B8DEB24BF1DE30018AF33 /* SolutionTests.swift */; };
 		569B8DF124BF1DF90018AF33 /* 1295.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56E920A024BDD100002405F2 /* 1295.swift */; };
 		569B8DF224BF1DF90018AF33 /* 977.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5683391E24BDAEC200D3B363 /* 977.swift */; };
@@ -44,6 +45,7 @@
 		5683390424BD97FD00D3B363 /* LeetCode_Swift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCode_Swift; sourceTree = BUILT_PRODUCTS_DIR; };
 		5683391C24BD9B4100D3B363 /* 485.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 485.swift; sourceTree = "<group>"; };
 		5683391E24BDAEC200D3B363 /* 977.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 977.swift; sourceTree = "<group>"; };
+		5684FEEB24CAAA1200711F7A /* 1051.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1051.swift; sourceTree = "<group>"; };
 		569B8DE924BF1DE30018AF33 /* SolutionTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SolutionTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		569B8DEB24BF1DE30018AF33 /* SolutionTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SolutionTests.swift; sourceTree = "<group>"; };
 		569B8DED24BF1DE30018AF33 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -103,6 +105,7 @@
 				56F60FE724C9490900E0E914 /* 905.swift */,
 				56531AB124C56CD600AE8D1D /* 941.swift */,
 				5683391E24BDAEC200D3B363 /* 977.swift */,
+				5684FEEB24CAAA1200711F7A /* 1051.swift */,
 				56E920A224BDDF25002405F2 /* 1089.swift */,
 				56E920A024BDD100002405F2 /* 1295.swift */,
 				56758B4824C6F934001DFAD8 /* 1299.swift */,
@@ -209,6 +212,7 @@
 			files = (
 				56531AB224C56CD600AE8D1D /* 941.swift in Sources */,
 				56764D8024C80B5F0077CF1B /* 283.swift in Sources */,
+				5684FEEC24CAAA1200711F7A /* 1051.swift in Sources */,
 				56F60FE824C9490900E0E914 /* 905.swift in Sources */,
 				56C3883224C34F400052AA6F /* 1346.swift in Sources */,
 				563E0FD524BFF4C500EDA2F9 /* 27.swift in Sources */,

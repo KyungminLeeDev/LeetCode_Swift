@@ -15,7 +15,7 @@ import XCTest
  Return the minimum number of students that must move in order for all students to be standing in non-decreasing order of height.
  Notice that when a group of students is selected they can reorder in any possible way between themselves and the non selected students remain on their seats.
  
- 연간 사진을 찍기 위해 학생들은 키가 작은 순서대로 서있도록 요청받았다.
+ 연간 사진을 찍기 위해 학생들은 키가 작은 순서대로 서있도록 요청받았습니다.
  키가 작은 순서대로 서기 위해 움직여야하는 최소 학생 수를 반환하세요.
  학생들은 가능한 한 어떤 방식으로든 순서를 바꿀 수 있습니다.
 

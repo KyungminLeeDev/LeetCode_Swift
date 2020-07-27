@@ -54,7 +54,7 @@ func findDisappearedNumbers(_ nums: [Int]) -> [Int] {
 // Test Code
 extension SolutionTests {
     
-    func tesFindDisappearedNumbers() {
+    func testFindDisappearedNumbers() {
         // Given-When-Then (준비-실행-검증)
         
         // Given

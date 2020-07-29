@@ -33,6 +33,7 @@ LeetCode solutions in Swift.
 | ---- | -----------------------| ---------- | ------ | ---------- |
 | [26](https://github.com/KyungminLeeDev/LeetCode_Swift/blob/master/SolutionTests/26.swift) | Remove Duplicates from Sorted Array | Easy | Array | 2020/07/17 |
 | [27](https://github.com/KyungminLeeDev/LeetCode_Swift/blob/master/SolutionTests/27.swift) | Remove Element | Easy | Array | 2020/07/16 |
+| [66](https://github.com/KyungminLeeDev/LeetCode_Swift/blob/master/SolutionTests/66.swift) | Plus One | Easy | Array | 2020/07/29 |
 | [88](https://github.com/KyungminLeeDev/LeetCode_Swift/blob/master/SolutionTests/88.swift) | Merge Sorted Array | Easy | Array | 2020/07/15 |
 | [283](https://github.com/KyungminLeeDev/LeetCode_Swift/blob/master/SolutionTests/283.swift) | Move Zeroes | Easy | Array | 2020/07/22 |
 | [414](https://github.com/KyungminLeeDev/LeetCode_Swift/blob/master/SolutionTests/414.swift) | Third Maximum Number | Easy | Array | 2020/07/25 |

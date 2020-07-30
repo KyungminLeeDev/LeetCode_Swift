@@ -44,6 +44,7 @@ LeetCode solutions in Swift.
 | [905](https://github.com/KyungminLeeDev/LeetCode_Swift/blob/master/SolutionTests/905.swift) | Sort Array By Parity | Easy | Array | 2020/07/23 |
 | [941](https://github.com/KyungminLeeDev/LeetCode_Swift/blob/master/SolutionTests/941.swift) | Valid Mountain Array | Easy | Array | 2020/07/20 |
 | [977](https://github.com/KyungminLeeDev/LeetCode_Swift/blob/master/SolutionTests/977.swift) | Squares of a Sorted Array | Easy | Array | 2020/07/13 |
+| [989](https://github.com/KyungminLeeDev/LeetCode_Swift/blob/master/SolutionTests/989.swift) | Add to Array-Form of Integer | Easy | Array | 2020/07/30 |
 | [1089](https://github.com/KyungminLeeDev/LeetCode_Swift/blob/master/SolutionTests/1089.swift) | Duplicate Zeros | Easy | Array  | 2020/07/14 |
 | [1051](https://github.com/KyungminLeeDev/LeetCode_Swift/blob/master/SolutionTests/1051.swift) | Height Checker | Easy | Array  | 2020/07/24 |
 | [1295](https://github.com/KyungminLeeDev/LeetCode_Swift/blob/master/SolutionTests/1295.swift) | Find Numbers with Even Number of Digits | Easy | Array | 2020/07/13 |

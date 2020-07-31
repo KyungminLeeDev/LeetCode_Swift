@@ -41,6 +41,7 @@ LeetCode solutions in Swift.
 | [485](https://github.com/KyungminLeeDev/LeetCode_Swift/blob/master/SolutionTests/485.swift) | Max Consecutive Ones | Easy | Array | 2020/07/13 |
 | [724](https://github.com/KyungminLeeDev/LeetCode_Swift/blob/master/SolutionTests/724.swift) | Find Pivot Index | Easy | Array | 2020/07/27 |
 | [747](https://github.com/KyungminLeeDev/LeetCode_Swift/blob/master/SolutionTests/747.swift) | Largest Number At Least Twice of Others | Easy | Array | 2020/07/28 |
+| [896](https://github.com/KyungminLeeDev/LeetCode_Swift/blob/master/SolutionTests/896.swift) | Monotonic Array | Easy | Array | 2020/07/31 |
 | [905](https://github.com/KyungminLeeDev/LeetCode_Swift/blob/master/SolutionTests/905.swift) | Sort Array By Parity | Easy | Array | 2020/07/23 |
 | [941](https://github.com/KyungminLeeDev/LeetCode_Swift/blob/master/SolutionTests/941.swift) | Valid Mountain Array | Easy | Array | 2020/07/20 |
 | [977](https://github.com/KyungminLeeDev/LeetCode_Swift/blob/master/SolutionTests/977.swift) | Squares of a Sorted Array | Easy | Array | 2020/07/13 |

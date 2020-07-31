@@ -24,3 +24,78 @@ func isMonotonic(_ A: [Int]) -> Bool {
     
     return true
 }
+
+// Test Code
+extension SolutionTests {
+    
+    func testIsMonotonic_case1() {
+        // Given-When-Then (준비-실행-검증)
+        
+        // Given
+        let input = [1,2,2,3]
+        let output = true
+        
+        // When
+        let result = isMonotonic(input)
+        
+        // Then
+        XCTAssertEqual(result, output)
+    }
+    
+    func testIsMonotonic_case2() {
+        // Given-When-Then (준비-실행-검증)
+        
+        // Given
+        let input = [6,5,4,4]
+        let output = true
+        
+        // When
+        let result = isMonotonic(input)
+        
+        // Then
+        XCTAssertEqual(result, output)
+    }
+    
+    func testIsMonotonic_case3() {
+        // Given-When-Then (준비-실행-검증)
+        
+        // Given
+        let input = [1,3,2]
+        let output = false
+        
+        // When
+        let result = isMonotonic(input)
+        
+        // Then
+        XCTAssertEqual(result, output)
+    }
+    
+    func testIsMonotonic_case4() {
+        // Given-When-Then (준비-실행-검증)
+        
+        // Given
+        let input = [1,2,4,5]
+        let output = true
+        
+        // When
+        let result = isMonotonic(input)
+        
+        // Then
+        XCTAssertEqual(result, output)
+    }
+    
+    func testIsMonotonic_case5() {
+        // Given-When-Then (준비-실행-검증)
+        
+        // Given
+        let input = [1,1,1]
+        let output = true
+        
+        // When
+        let result = isMonotonic(input)
+        
+        // Then
+        XCTAssertEqual(result, output)
+    }
+    
+}

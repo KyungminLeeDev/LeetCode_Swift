@@ -27,7 +27,7 @@ import XCTest
 
  Example 1:
  ~~~~
- IInput: [1,2,3]
+ Input: [1,2,3]
  Output: [1,2,4]
  Explanation: The array represents the integer 123.
  ~~~~

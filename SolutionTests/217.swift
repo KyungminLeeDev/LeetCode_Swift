@@ -42,8 +42,8 @@ import XCTest
  - 배열을 Set으로 형변환해서 배열과 Set의 원소 갯수를 비교해서 같으면 중복된 원소가 없다고 판단한다.
  
  Submissions:
- - Runtime: 572 ms, faster than 42.64% of Swift online submissions for Find All Numbers Disappeared in an Array.
- - Memory Usage: 23.7 MB, less than 57.14% of Swift online submissions for Find All Numbers Disappeared in an Array.
+ - Runtime: 156 ms, faster than 84.87% of Swift online submissions for Contains Duplicate.
+ - Memory Usage: 21.1 MB, less than 100.00% of Swift online submissions for Contains Duplicate.
 */
 func containsDuplicate(_ nums: [Int]) -> Bool {
     let numsSet = Set(nums)
